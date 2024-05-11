@@ -15,7 +15,6 @@ A few key features:
 - You can search through page titles using the search engine located at the top right corner.
 - Click on **History** to view the revision history of a document.
 - Leave **Comments** for questions and discussion
-
 - You can download the entire wiki for **offline** usage and work locally 
 
 See [page](build-and-customize-wiki.md) for more details on building and customizing this wiki
