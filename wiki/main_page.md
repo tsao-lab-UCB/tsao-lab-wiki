@@ -26,6 +26,12 @@ You can include the [official github wiki](https://help.github.com/articles/abou
 
 You can open a public issue on [github](https://github.com/Drassil/git-wiki/issues) , 
 
+## Prose.io
+Prose.io provides useful editing tools and preview. However, it doesn't work with the current app access restrictions...
+```
+Although you appear to have the correct authorization credentials, the `tsao-lab-UCB` organization has enabled OAuth App access restrictions, meaning that data access to third-parties is limited. For more information on these restrictions, including how to enable this app, visit https://docs.github.com/articles/restricting-access-to-your-organization-s-data/
+```
+
 ## Work locally
 * If you need to work on git-wiki locally before publish, then clone your wiki repo and follow this instructions  from official github article: <https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/>. Git wiki already contains the Gemfile for local installations.
 * You can also use our **docker files** to run git-wiki under **docker**, the easiest method is to run `docker-compose up` command in this folder
