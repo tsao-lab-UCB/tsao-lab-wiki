@@ -5,17 +5,17 @@ published: true
 
 # Welcome to Tsao-lab Wiki
 
-This wiki is powered by git, and [github](https://pages.github.com/)/[gitlab](https://about.gitlab.com/product/pages/) pages!
+This wiki is powered by Git, and [GitHub](https://pages.github.com/)/[GitLab](https://about.gitlab.com/product/pages/) Pages!
 
 A few key features:
-* To add a new post, just click *add a new post* on the top right button. The format of each file is **Markdown and html** mixed together. 
-* You can **edit** each page with the standard git editor (top row), prose.io (second row) or any kind of editor you prefer if you work locally. It might take few secs to minutes to your stuff to get published!
-* Non-existent wiki page links are "[red](red.md)", you can **click on them to automatically create a new page**!
-* Automatic generated **TOC** for each page
-* Click **History** for showing the revision history of that document
-* Leave **Comments** for your questions
-* Search for documents using search engine on the top right!
-* You can download the entire wiki for **offline** usage 
+- To add a new post, simply click on **add a new post** at the top right button. The format of each file is a mixture of **Markdown and HTML**. It might take a few minutes for your content to get published!
+- You can **edit** each page using the standard Git editor (top row), Prose.io (second row), or any preferred editor if you're working locally.
+- Non-existent wiki page links are displayed in "[red](red.md)" (in Light mode); you can click on them to **automatically create a new page**!
+- Automatic generation of a **Table of Contents (TOC)** for each page.
+- Click on **History** to view the revision history of a document.
+- Leave **Comments** for any questions you may have.
+- You can search using **search engine** at the top right!
+- You can download the entire wiki for **offline** usage and work locally 
 
 
 # Resources for building this wiki
