@@ -1,3 +1,7 @@
+---
+redirect_from: /
+published: true
+---
 
 
 # Codebase for building this wiki
