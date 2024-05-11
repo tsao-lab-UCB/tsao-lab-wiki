@@ -17,6 +17,7 @@ A few key features:
 - You can search using **search engine** at the top right!
 - You can download the entire wiki for **offline** usage and work locally 
 
+See [page](build-and-customize-wiki.md) for more details on building and customizing this wiki
 
 
 
