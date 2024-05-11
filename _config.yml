@@ -1,24 +1,24 @@
 # (string) Title of your wiki
-title: git-wiki
+title: Tsao-lab Wiki
 demo_ver: 1.0.22
 remote_theme: Drassil/git-wiki-theme@master
-description: Git-Wiki demo and documentation
+description: Welcome to Tsao-lab Wiki!
 show_downloads: true
-show_wiki_pages: true
-show_wiki_pages_limit: 10
+show_wiki_pages: false
+show_wiki_pages_limit: 0
 paginate: 2
 paginate_path: "/assets/blog/page:num"
 permalink: "/assets/blog/posts/:year/:month/:day/:title:output_ext"
 blog_feature: true
 show_wiki_posts: true
-show_wiki_posts_limit: 5
-logo_url: assets/images/1200px-Wikipedia-logo-v2.svg_.png
+show_wiki_posts_limit: 10
+logo_url: assets/images/monkey-grooming.png
 google_analytics:
 git_branch: master
 use_github_wiki: false
 use_prose_io: false
 service: github
-search_engine : "js"
+search_engine : "github"
 google_cse_token: 
 wiki_folder : "wiki"
 site_root: 
