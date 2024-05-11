@@ -1,6 +1,7 @@
 version: '3.7'
 services:
   github-wiki:
+    platform: linux/x86_64
     build: 
       context: .
       dockerfile: .env-files/Dockerfile.github
@@ -14,6 +15,7 @@ services:
      - github_site:/srv/jekyll/_site
     command: bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload
   gitlab-wiki:
+    platform: linux/x86_64
     build: 
       context: .
       dockerfile: .env-files/Dockerfile.gitlab
@@ -26,6 +28,9 @@ services:
      - .:/srv/jekyll
      - gitlab_site:/srv/jekyll/_site
     command: 'bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload'
+
+
 volumes: 
   github_site:
   gitlab_site:
+
