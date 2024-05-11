@@ -4,9 +4,9 @@ published: true
 
 Onboarding procedure will go here
 
-# started
+# first-day
 
 test
 
-# update_ra
-# launch_ra
+# request building access
+# safety training
