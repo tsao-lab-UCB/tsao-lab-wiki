@@ -4,8 +4,8 @@ demo_ver: 1.0.22
 remote_theme: Drassil/git-wiki-theme@master
 description: Welcome to Tsao-lab Wiki!
 show_downloads: true
-show_wiki_pages: false
-show_wiki_pages_limit: 0
+show_wiki_pages: true
+show_wiki_pages_limit: 5
 paginate: 2
 paginate_path: "/assets/blog/page:num"
 permalink: "/assets/blog/posts/:year/:month/:day/:title:output_ext"
