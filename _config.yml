@@ -117,12 +117,6 @@ plugins:
  - jekyll-mentions
 
 
-#
-# INCLUDING HOOKS
-# They are optional, change them only if you need
-# Check wiki documentation to learn how they work
-#
-
 
 #
 # INCLUDING HOOKS
