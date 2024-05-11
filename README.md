@@ -1,3 +1,2 @@
-# git-wiki
-
-[Demo and documentation](https://github.com/Drassil/git-wiki) for [git-wiki-theme](https://github.com/Drassil/git-wiki-theme)
+# tsao-lab wiki
+wiki page for tsao lab @ UC Berkeley
