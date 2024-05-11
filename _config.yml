@@ -133,7 +133,7 @@ plugins:
 inc_before_toc : 
 inc_after_toc : 
 inc_before_content : 
-inc_after_content : "tsao/comments.html"
+inc_after_content : #"tsao/comments.html"
 inc_before_footer : 
 inc_after_footer : 
 inc_before_head : 
